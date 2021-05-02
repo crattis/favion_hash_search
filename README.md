@@ -3,7 +3,7 @@ Python script to generate the MMH3 hash for a favicon for searching online.
 
 Takes user provided url for a Favicon and creates a MurMurHash3 hash. The output provides the search string for pasting in to Shonda.io to search for the hash.
 This is a modified version of the script posted on the SANS ISC Diary (https://isc.sans.edu/diary/Hunting+phishing+websites+with+favicon+hashes/27326)
-![](header.png)
+![](header.PNG)
 
 ## Installation
 
