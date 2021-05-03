@@ -30,11 +30,13 @@ python favicon_hash_search http://www.google.com/favicon.ico
 To work on development, install like it says in the installation environment above.
 
 ## TODO List:
-* Look in to beautiful soup to see if the favicon can be pulled directly fro the domains  
-  (will probably be open for a long time)
+* Make an installable package
 * Add Hash and Shodan options to argparse (default hash)  
   Hash will return current version output
   Shodan will return current output and seach shodan saving to csv.
+* Look in to beautiful soup to see if the favicon can be pulled directly fro the domains  
+  (will probably be open for a long time)
+
 
 ## Release History
 * 0.0.1
